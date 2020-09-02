@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-movie-tvShow-app/static/css/main.953364bb.chunk.css",
-    "main.js": "/react-movie-tvShow-app/static/js/main.c2bd42ae.chunk.js",
-    "main.js.map": "/react-movie-tvShow-app/static/js/main.c2bd42ae.chunk.js.map",
-    "runtime-main.js": "/react-movie-tvShow-app/static/js/runtime-main.e8ad5ecc.js",
-    "runtime-main.js.map": "/react-movie-tvShow-app/static/js/runtime-main.e8ad5ecc.js.map",
-    "static/js/2.aeb59cdb.chunk.js": "/react-movie-tvShow-app/static/js/2.aeb59cdb.chunk.js",
-    "static/js/2.aeb59cdb.chunk.js.map": "/react-movie-tvShow-app/static/js/2.aeb59cdb.chunk.js.map",
-    "index.html": "/react-movie-tvShow-app/index.html",
-    "precache-manifest.b45eb7a1d11fb2a451b484ddd4b26236.js": "/react-movie-tvShow-app/precache-manifest.b45eb7a1d11fb2a451b484ddd4b26236.js",
-    "service-worker.js": "/react-movie-tvShow-app/service-worker.js",
-    "static/css/main.953364bb.chunk.css.map": "/react-movie-tvShow-app/static/css/main.953364bb.chunk.css.map",
-    "static/js/2.aeb59cdb.chunk.js.LICENSE.txt": "/react-movie-tvShow-app/static/js/2.aeb59cdb.chunk.js.LICENSE.txt"
+    "main.css": "/react-movie-tvshow-app/static/css/main.953364bb.chunk.css",
+    "main.js": "/react-movie-tvshow-app/static/js/main.30ada716.chunk.js",
+    "main.js.map": "/react-movie-tvshow-app/static/js/main.30ada716.chunk.js.map",
+    "runtime-main.js": "/react-movie-tvshow-app/static/js/runtime-main.312d785f.js",
+    "runtime-main.js.map": "/react-movie-tvshow-app/static/js/runtime-main.312d785f.js.map",
+    "static/js/2.85eb12da.chunk.js": "/react-movie-tvshow-app/static/js/2.85eb12da.chunk.js",
+    "static/js/2.85eb12da.chunk.js.map": "/react-movie-tvshow-app/static/js/2.85eb12da.chunk.js.map",
+    "index.html": "/react-movie-tvshow-app/index.html",
+    "precache-manifest.bc250b09bed700a5ccef49fcfb5bdc60.js": "/react-movie-tvshow-app/precache-manifest.bc250b09bed700a5ccef49fcfb5bdc60.js",
+    "service-worker.js": "/react-movie-tvshow-app/service-worker.js",
+    "static/css/main.953364bb.chunk.css.map": "/react-movie-tvshow-app/static/css/main.953364bb.chunk.css.map",
+    "static/js/2.85eb12da.chunk.js.LICENSE.txt": "/react-movie-tvshow-app/static/js/2.85eb12da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8ad5ecc.js",
-    "static/js/2.aeb59cdb.chunk.js",
+    "static/js/runtime-main.312d785f.js",
+    "static/js/2.85eb12da.chunk.js",
     "static/css/main.953364bb.chunk.css",
-    "static/js/main.c2bd42ae.chunk.js"
+    "static/js/main.30ada716.chunk.js"
   ]
 }
