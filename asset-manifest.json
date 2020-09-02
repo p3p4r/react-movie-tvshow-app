@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-movie-tvShow-app/static/css/main.8da11d89.chunk.css",
-    "main.js": "/react-movie-tvShow-app/static/js/main.0ff77387.chunk.js",
-    "main.js.map": "/react-movie-tvShow-app/static/js/main.0ff77387.chunk.js.map",
+    "main.css": "/react-movie-tvShow-app/static/css/main.953364bb.chunk.css",
+    "main.js": "/react-movie-tvShow-app/static/js/main.9740919b.chunk.js",
+    "main.js.map": "/react-movie-tvShow-app/static/js/main.9740919b.chunk.js.map",
     "runtime-main.js": "/react-movie-tvShow-app/static/js/runtime-main.e8ad5ecc.js",
     "runtime-main.js.map": "/react-movie-tvShow-app/static/js/runtime-main.e8ad5ecc.js.map",
     "static/js/2.62183c64.chunk.js": "/react-movie-tvShow-app/static/js/2.62183c64.chunk.js",
     "static/js/2.62183c64.chunk.js.map": "/react-movie-tvShow-app/static/js/2.62183c64.chunk.js.map",
     "index.html": "/react-movie-tvShow-app/index.html",
-    "precache-manifest.f5fec149576f7780d61d2606abafeff7.js": "/react-movie-tvShow-app/precache-manifest.f5fec149576f7780d61d2606abafeff7.js",
+    "precache-manifest.59a453fcbdd3f14087c3a04aba170aab.js": "/react-movie-tvShow-app/precache-manifest.59a453fcbdd3f14087c3a04aba170aab.js",
     "service-worker.js": "/react-movie-tvShow-app/service-worker.js",
-    "static/css/main.8da11d89.chunk.css.map": "/react-movie-tvShow-app/static/css/main.8da11d89.chunk.css.map",
+    "static/css/main.953364bb.chunk.css.map": "/react-movie-tvShow-app/static/css/main.953364bb.chunk.css.map",
     "static/js/2.62183c64.chunk.js.LICENSE.txt": "/react-movie-tvShow-app/static/js/2.62183c64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e8ad5ecc.js",
     "static/js/2.62183c64.chunk.js",
-    "static/css/main.8da11d89.chunk.css",
-    "static/js/main.0ff77387.chunk.js"
+    "static/css/main.953364bb.chunk.css",
+    "static/js/main.9740919b.chunk.js"
   ]
 }
